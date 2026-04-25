@@ -1,5 +1,5 @@
-streamlit
+streamlit==1.37.0
 groq==1.2.0
-pymupdf
+PyMuPDF
 python-dotenv
-apify-client
+apify-client==1.6.2

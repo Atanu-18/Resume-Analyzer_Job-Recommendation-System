@@ -1,6 +1,5 @@
 streamlit
-# openai
-groq
+groq==1.2.0
 pymupdf
 python-dotenv
 apify-client

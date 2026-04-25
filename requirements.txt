@@ -1,0 +1,6 @@
+streamlit
+# openai
+groq
+pymupdf
+python-dotenv
+apify-client

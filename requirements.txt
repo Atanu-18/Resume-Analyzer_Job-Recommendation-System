@@ -3,3 +3,4 @@ groq==1.2.0
 PyMuPDF
 python-dotenv
 apify-client==1.6.2
+mcp
